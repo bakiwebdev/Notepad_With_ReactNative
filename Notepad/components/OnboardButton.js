@@ -9,6 +9,7 @@ const OnboardButton = () => {
             'ይቅርታ',
             'ይህ መተግበርያ ገና በመሰራት ላይ ነው! ለበለጠ መረጃ በ biruketblem@gmail.com ላይ መልእክቶን ያስቀምጡ'
         );
+        
     }
     return (
         <TouchableOpacity
